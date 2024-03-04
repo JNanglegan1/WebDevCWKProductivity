@@ -1,0 +1,6 @@
+@WebDevCWK_HostAddress = http://localhost:5181
+
+GET {{WebDevCWK_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
